@@ -1,0 +1,23 @@
+.qr-code {
+  text-align: center;
+  background-color: var(--white);
+  border-radius: 1rem; /* 16px */
+  padding: 1rem; /* 16px */
+  max-width: 20rem; /* 320px */
+}
+
+.qr-code img {
+  width: 18rem; /* 288px */
+  height: 18rem; /* 288px */
+  border-radius: 1rem; /* 16px */
+}
+
+.qr-code h1 {
+  color: var(--dark-blue);
+  font-size: 1.625rem; /* 26px */
+}
+
+.qr-code p {
+  color: var(--grayish-blue);
+  padding: 0 1.75rem; /* 0 28px */
+}
